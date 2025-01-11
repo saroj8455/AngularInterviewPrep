@@ -6,7 +6,7 @@ This guide is a complete roadmap to prepare for Angular interviews. It covers fu
 
 ## 📚 **Topics to Cover**
 
-### **1. [feature/ANG-01]Core Angular Concepts**
+### **1. [feature/ANG-01] Core Angular Concepts**
 
 - Angular Architecture
 - Components, Templates, and Modules
